@@ -1,2 +1,3 @@
 # hello-word
-Just another repo
+
+Quedate en casa y aprendé a usar GitHub
